@@ -1,0 +1,4 @@
+https://docs.expo.dev/build/setup/
+https://expo.dev/
+npm install --global expo-cli eas-cli
+eas build -p android --profile preview
